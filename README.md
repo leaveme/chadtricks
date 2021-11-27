@@ -1,7 +1,6 @@
 ## List of commands
 
 - update-self
-- directx
 - mf
 - vcrun2010
 - vcrun2012
